@@ -295,7 +295,7 @@ footer div {
 }
 
 .about-img {
-    background-image: url("/img/mid-page-accent.jpg");
+    background-image: url("../img/mid-page-accent.jpg");
     background-color: #f2f2f2;
     background-repeat: no-repeat;
     background-size: cover;
